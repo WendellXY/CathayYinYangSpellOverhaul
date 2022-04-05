@@ -1,0 +1,6 @@
+phase	stat	value	how
+#special_ability_phase_stat_effects_tables;3;db/special_ability_phase_stat_effects_tables/CathayYinYangSpellOverhaul_special_ability_phase_stat_effects_tables			
+wh3_main_spell_yang_stone_ground_stance_upgraded	stat_mass	3.0	mult
+wh3_main_spell_yang_stone_ground_stance_upgraded	stat_morale	8.0	add
+wh3_main_spell_yang_stone_ground_stance	stat_mass	2.0	mult
+wh3_main_spell_yang_stone_ground_stance	stat_morale	8.0	add
