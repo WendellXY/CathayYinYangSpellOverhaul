@@ -73,6 +73,7 @@
 
 `wh3_main_spell_yang_jade_shield`
 
+* (过载) 魔法之风消耗 (Overload) Mana Cost: 6 -> 12 [1]
 * (过载) 作用范围 (Overload) Effect Range: 35 [1]
 
 ### 龙息诀 Dragons Breath
