@@ -80,7 +80,7 @@
 
 `wh3_main_spell_yang_dragons_breath`
 
-* (过载) 伤害 (Overload) Base Damage: 56 -> 42 [4]
+* (过载) 伤害 (Overload) Base Damage: 56 -> 36 [4]
 * (过载) 破甲伤害 (Overload) AP Damage: 0 -> 14 [4]
 
 ### 风火诀 Wall Of Wind & Fire
