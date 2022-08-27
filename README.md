@@ -53,8 +53,8 @@
 
 * 魔法之风消耗 Mana Cost: 9 -> 8 [1]
 * (过载) 魔法之风消耗 (Overload) Mana Cost: 14 -> 12 [1]
-* 基础伤害 Base Damage: 0 -> 8 [4]
-* (过载) 基础伤害 Base Damage: 0 -> 12 [4]
+* 基础伤害 Base Damage: 0 -> 4 [4]
+* (过载) 基础伤害 Base Damage: 0 -> 6 [4]
 
 ### 夜鸮决 Talons of Night
 
@@ -81,7 +81,7 @@
 `wh3_main_spell_yang_dragons_breath`
 
 * (过载) 伤害 (Overload) Base Damage: 56 -> 36 [4]
-* (过载) 破甲伤害 (Overload) AP Damage: 0 -> 14 [4]
+* (过载) 破甲伤害 (Overload) AP Damage: 0 -> 6 [4]
 
 ### 风火诀 Wall Of Wind & Fire
 
